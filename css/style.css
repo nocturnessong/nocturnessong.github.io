@@ -73,6 +73,7 @@ user-select: none;
 .mapinteractive .blink_wrap p#winwin {top:calc(100% / 430 * 333); left:calc(100% / 370 * 108);}
 .mapinteractive .blink_wrap p#lucas {top:calc(100% / 430 * 304); left:calc(100% / 370 * 237);}
 .mapinteractive .blink_wrap p#xiaojun {top:calc(100% / 430 * 259); left:calc(100% / 370 * 196);}
+.mapinteractive .blink_wrap p#hendery {top:calc(100% / 430 * 154); left:calc(100% / 370 * 278);}
 
 
 @keyframes blink{

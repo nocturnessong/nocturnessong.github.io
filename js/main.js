@@ -208,7 +208,7 @@ function passClick(){
         var getTxt = $(".pass_wrap input").val().toLowerCase();
         var getPass = CryptoJS.MD5(getTxt);
 
-        if(who == "ten" && getPass == "cd8bf186c324ac6ce7cdad6146095f8c" || who == "kun" && getPass == "7e032a225c76f10a86015ddc940f2490" || who == "winwin" && getPass == "cfc70620572c93191a4ad8dc126331e5" || who == "lucas" && getPass == "e54f0f6c95f9f9bd43ea0e266b0ef4ca" || who == "xiaojun" && getPass == "9e3669d19b675bd57058fd4664205d2a"){
+        if(who == "ten" && getPass == "cd8bf186c324ac6ce7cdad6146095f8c" || who == "kun" && getPass == "7e032a225c76f10a86015ddc940f2490" || who == "winwin" && getPass == "cfc70620572c93191a4ad8dc126331e5" || who == "lucas" && getPass == "e54f0f6c95f9f9bd43ea0e266b0ef4ca" || who == "xiaojun" && getPass == "9e3669d19b675bd57058fd4664205d2a" || who == "hendery" &&  getPass == "bb3aec0fdcdbc2974890f805c585d432" || who == "hendery" &&  getPass == "8f14e45fceea167a5a36dedd4bea2543"){
             //correct
             //insert img in slider : 퍼가기 방지
             $('#'+who+'.vid3')[0].pause();
